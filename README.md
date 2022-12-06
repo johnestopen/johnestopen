@@ -1,4 +1,4 @@
-Hi, I’m John
+Hi, I’m John.<br>
 I'm currently studying Geophysics at Imperial College London
 Doing a temporary stint at Utrecht University
 Trying to learn a few languages
