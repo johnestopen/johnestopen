@@ -1,7 +1,5 @@
 Hi, I’m John.<br>
-I'm currently studying Geophysics at Imperial College London.<br>
-Doing a temporary stint at Utrecht University.<br>
-Trying to learn a few languages.<br>
+
 
 
 <!---
